@@ -5,13 +5,13 @@ import datetime
 
 # Lista de usuarios y contraseñas preguardadas
 USUARIOS = {
-    "Claudio Pozza": "0000",
-    "Diego Brugiatelli": "0000",
-    "Diego Mandril": "0000",
-    "Enzo Acosta": "0000",
-    "Gabriel Ojeda": "0000",
-    "Juan Buffa": "0000",
-    "Juan Pablo Macedo": "0000"
+    "User1": "0000",
+    "User2": "0000",
+    "User3": "0000",
+    "User4": "0000",
+    "User5": "0000",
+    "user6": "0000",
+    "User7": "0000"
 }
 
 usuario_actual = None  # Se almacenará el usuario logueado
